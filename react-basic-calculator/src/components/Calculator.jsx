@@ -96,7 +96,7 @@ useEffect(() => {
 
                     <SwitchThemeButton theme={theme} onClick={() => switchTheme(theme)}>Switch</SwitchThemeButton>
 
-                    <a href='https://github.com/diegopozzato/react-basic-calculator'><Sign>Github Repository</Sign></a>
+                    <a href='https://github.com/diegopozzato/react-projects/tree/main/react-basic-calculator'><Sign>Github Repository</Sign></a>
 
                     <Screen theme={theme} result={result.toString()} displayOperation={displayOperation}/>
 
