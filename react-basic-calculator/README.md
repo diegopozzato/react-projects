@@ -8,12 +8,6 @@ A basic calculator with theme switcher built with React
 
 ## Run Locally
 
-**Clone the project**
-
-```bash
-  git clone https://github.com/diegopozzato/react-basic-calculator.git
-```
-
 **Go to the project directory**
 
 ```bash
@@ -31,4 +25,3 @@ A basic calculator with theme switcher built with React
 ```bash
   npm start
 ```
-
